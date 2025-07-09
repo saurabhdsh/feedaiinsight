@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insightpulse/static/css/main.7ac43bce.css",
+    "main.js": "/insightpulse/static/js/main.fa333504.js",
+    "static/js/453.1b3ca361.chunk.js": "/insightpulse/static/js/453.1b3ca361.chunk.js",
+    "index.html": "/insightpulse/index.html",
+    "main.7ac43bce.css.map": "/insightpulse/static/css/main.7ac43bce.css.map",
+    "main.fa333504.js.map": "/insightpulse/static/js/main.fa333504.js.map",
+    "453.1b3ca361.chunk.js.map": "/insightpulse/static/js/453.1b3ca361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac43bce.css",
+    "static/js/main.fa333504.js"
+  ]
+}
